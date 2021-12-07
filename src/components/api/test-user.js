@@ -44,7 +44,7 @@ class TestUser extends Component {
                         <thead className="thead-dark">
                             <tr>
                                 <th>ID</th>
-                                <th>Firs Name</th>
+                                <th>First Name</th>
                                 <th>Last Name</th>
                             </tr>
                         </thead>
